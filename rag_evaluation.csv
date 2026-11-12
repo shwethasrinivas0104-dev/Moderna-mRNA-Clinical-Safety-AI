@@ -1,0 +1,7 @@
+question,retrieval_latency_seconds,results_found,top_distance,status
+What are the storage requirements for mRNA products?,0.0421,3,0.5674,Results retrieved - review relevance
+What are the recommended monitoring requirements after administration?,0.0296,3,1.4313,Potential retrieval failure
+What are the contraindications for mRNA products?,0.0304,3,1.0697,Potential retrieval failure
+How should adverse events be documented?,0.0297,3,0.692,Results retrieved - review relevance
+What precautions apply to patients with prior allergic reactions?,0.0344,3,1.2285,Potential retrieval failure
+What is the population of Mars?,0.0275,3,1.9328,Potential retrieval failure
