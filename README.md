@@ -36,5 +36,4 @@ This is an educational project using sample data and a fictional safety referenc
 Author
 AI/ML Healthcare project
 
-AI/ML Healthcare Project
 
